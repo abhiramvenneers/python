@@ -29,4 +29,4 @@ if n>0 and n<=5:
     elif n==5:
         print("\n\nPROGRAM EXITED\n THANKYOU")
 else:
-    print("WRONG CHOICE!")
+    print("WRONG COMMENT")
